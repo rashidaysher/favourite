@@ -1,0 +1,130 @@
+
+body{background-image: url("../images/gikoi2.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;}
+
+.header {background-color:black;
+}
+
+.header {background-image: url("../images/g.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+.header img{
+ height: 150px;
+ float: left;
+ padding: 20px;
+}
+
+
+.header ul {
+
+  list-style-type: none;
+  height: 75px;
+  float: left;
+  font-size:20px;
+  padding-top: 20px;
+  background-color:;
+  
+  
+}
+
+.header li {
+  float: left;
+
+
+}
+
+ .header li a {
+  display: block;
+  color:#e9d7c3;
+  text-align: center;
+  padding: 16px;
+ text-decoration: none;
+
+  
+
+
+}
+
+ .header li a:hover {
+  background-color: pink;
+}
+
+.baner{ background-color:; }
+.baner img{
+     width: 100%;
+
+   }
+
+
+
+
+
+
+.footer{background-image: url("../images/logo.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+.footer{background-color:black ;
+        width: 100%;
+        height:1000px ;
+        padding: 100px;
+}
+
+.footer h1{color: white;
+          font-size: 30px;
+          padding: 50px;
+}
+.footer p{color: white;width: 120px;padding-left: 50px;
+}
+
+
+
+.sec2{background-color: white;}
+ .sec2 h1{font-size: 35px;
+  padding: 75px;
+  text-align: center;
+}
+
+.sec2 p{
+         text-align: center;
+}
+
+.sec3 {background-color:white;
+       height: 1000px;
+}
+.sec3 span{width: px;
+           padding:px; 
+}
+
+.sec3 img{width: 100%;
+          height: 100%;
+          padding: 100px;
+}
+.sec3 .square {
+  height:740px;
+  width: 300px;
+  background-color:#ECCA96;
+  padding: px;
+}
+
+
+.dropdown2{padding: 75px;}
+
+.sec3 h3{font-size: 15px;
+        
+         padding: 50px;
+}
+.sec3 h4{font-size: 15px;
+         padding-left: 120px;
+}
+.sec3 h1{padding-left: 70px;}
+
+
+.h1, h1 {
+    font-size: 2.5rem;
+    text-align: center
